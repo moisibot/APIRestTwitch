@@ -1,0 +1,13 @@
+source venv/bin/activate
+
+
+//
+
+source venv/bin/activate
+
+
+// instalacion de librerias:
+
+
+pip install requests requests-oauthlib
+
